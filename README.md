@@ -1,0 +1,3 @@
+# xmly
+
+XMLY_SPEED_COOKIE
